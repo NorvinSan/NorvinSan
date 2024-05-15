@@ -2,7 +2,7 @@
 <h1> ¡Hola mi nombre es Norvin Gutiérrez!  👋<h1>
 
 # 💫 About Me:
-  Actual estudiante de la carrera Ingeniera de Sistemas en la Universidad Nacional de Ingeniera (UNI-RUACS)<img width="20px" src="https://images.emojiterra.com/google/noto-emoji/v2.034/128px/1f1f3-1f1ee.png" ><br> 
+  Actual egresado de la carrera Ingeniera de Sistemas en la Universidad Nacional de Ingeniera (UNI-RUACS)<img width="20px" src="https://images.emojiterra.com/google/noto-emoji/v2.034/128px/1f1f3-1f1ee.png" ><br> 
 
 
 ## 🌐 Socials:
