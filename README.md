@@ -15,7 +15,10 @@ Hi! I'm **Norvin Antonio Gutiérrez Gutiérrez**, a graduate in Systems Engineer
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=NorvinSan&theme=tokyonight&card_width=488)](https://git.io/streak-stats)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NorvinSan&langs_count=15)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NorvinSan&langs_count=15&theme=tokyonight)
+
+
 
 ## 📂 Projects
 
